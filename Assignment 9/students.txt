@@ -1,0 +1,5 @@
+Anita,anita123@gmail.com,2000-06-15
+Raj,raj_wrong_email,2001-12-20
+Priya,priya.kumar@gmail.com,1998-03-10
+amit,Amit@gmail.com,2001-04-09
+John,john123@domain.com,1999-01-30
